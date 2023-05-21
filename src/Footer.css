@@ -1,0 +1,12 @@
+.Footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 45px;
+  
+    .Footer-up{
+      font-family:worksans-semibold,'work sans',sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      margin: 7px 0px;
+    }
+  }
