@@ -5,14 +5,14 @@ import Main  from './Main';
 
 function App() {
   return (
-    <>
+    <div>
       <header>
         <Navbar/>
       </header>
       <Main/>
       <Footer/>
       
-    </>
+    </div>
   );
 }
 
