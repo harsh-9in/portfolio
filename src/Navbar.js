@@ -1,10 +1,11 @@
 import './Navbar.css';
+import './index.css';
 
 function Navbar(){
     return(
         <nav className="Navbar">
             <div className="Navbar-left">
-                <span className='font4'>Harsh Kumar</span>
+                <span className='Navbar-left-name'>Harsh Kumar</span>
                 {/* <span className='font8'>Developer</span> */}
             </div>
 
