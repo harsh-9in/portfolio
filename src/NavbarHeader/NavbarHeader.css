@@ -1,0 +1,16 @@
+
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+
+    .Navbar-right-span{
+        padding: 0px 8px;
+        cursor: pointer;
+    }
+    .Navbar-left-name{
+        font-family:var(--font10);
+        font-weight: 800;
+        font-size: 22px;
+    }
+}

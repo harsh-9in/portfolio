@@ -1,15 +1,20 @@
 import './App.css';
-import Navbar from "./Navbar";
-import Footer from './Footer';
-import Main  from './Main';
+
+import Footer from './Footer/Footer'
+import Main  from './Main/Main';
+import Contact from './Contact/Contact';
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
+import NavbarHeader from './NavbarHeader/NavbarHeader';
 
 function App() {
   return (
     <div>
       <header>
-        <Navbar/>
+        <NavbarHeader/>
       </header>
       <Main/>
+      {/* <Contact/> */}
       <Footer/>
       
     </div>
