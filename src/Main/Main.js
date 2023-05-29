@@ -1,6 +1,6 @@
 import './Main.css';
-import './index.css';
-import harsh from './harsh.jpg';
+import '../index.css';
+import harsh from '../harsh.jpg';
 
 
 function Main() {
