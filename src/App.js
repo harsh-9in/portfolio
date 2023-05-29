@@ -14,7 +14,7 @@ function App() {
         <NavbarHeader/>
       </header>
       <Main/>
-      <Contact/>
+      {/* <Contact/> */}
       <Footer/>
       
     </div>
