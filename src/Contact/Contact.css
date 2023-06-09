@@ -1,12 +1,10 @@
 .Contact{
-    padding: 120px 0px;
     .Contact-Left{
         display: flex;
         flex-direction: column;
         .Contact-Left-element{
             display: flex;
             flex-direction: column;
-        }
+        } 
     }
-    
 }

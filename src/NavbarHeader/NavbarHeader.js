@@ -9,7 +9,7 @@ function NavbarHeader() {
     return (
         <Navbar>
         <Container>
-          <Navbar.Brand href="home">Harsh Kumar</Navbar.Brand>
+          <Navbar.Brand href="/">Harsh Kumar</Navbar.Brand>
         </Container>
         <Nav className="me-auto">
             <Nav.Link href="resume">Resume</Nav.Link>
