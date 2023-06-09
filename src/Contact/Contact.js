@@ -45,11 +45,6 @@ function Contact() {
                 </Col>
             </Row>
         </Container>
-
-        //     <div className="Contact-Right">
-
-        //     </div>
-        // </div>
     )
 }
 

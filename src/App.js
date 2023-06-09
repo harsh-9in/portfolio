@@ -5,7 +5,6 @@ import Contact from './Contact/Contact';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import NavbarHeader from './NavbarHeader/NavbarHeader';
-
 import HarshResume from './HarshResume.pdf';
 
 function App() {
